@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# Contributing to Open Source Guides
+# Contributing to Open Source Science Accessibility Project
 
-Thanks for checking out the Open Source Guides! We're excited to hear and learn from you. Your experiences will benefit others who read and use these guides.
+We're excited to hear and learn from you.
 
 We've put together the following guidelines to help you figure out where you can best be helpful.
 
@@ -21,10 +21,10 @@ We've put together the following guidelines to help you figure out where you can
 ## Types of contributions we're looking for
 There are many ways you can directly contribute to the guides (in descending order of need):
 
-* Fix editorial inconsistencies or inaccuracies
-* Add stories, examples, or anecdotes that help illustrate a point
-* Revise language to be more approachable and friendly
-* [Translate guides into other languages](docs/translations.md)
+* maintance of scraping code.
+* science writing
+* machine learning and analysis
+* integration between science writing and analysis
 
 Interested in making a contribution? Read on!
 
@@ -50,17 +50,10 @@ If you're writing content, see the [style guide](./docs/styleguide.md) to help y
 
 ## Setting up your environment
 
-This site is powered by [Jekyll](https://jekyllrb.com/). Running it on your local machine requires a working [Ruby](https://www.ruby-lang.org/en/) installation with [Bundler](https://bundler.io/).
-
-Once you have that set up, run:
-
-    script/bootstrap
-    script/server
-
-…and open http://localhost:4000 in your web browser.
+Try to build within the Docker container, hyperlinked in the README.md
 
 ## Community
 
-Discussions about the Open Source Guides take place on this repository's [Issues](https://github.com/github/opensource.guide/issues) and [Pull Requests](https://github.com/github/opensource.guide/pulls) sections. Anybody is welcome to join these conversations. There is also a [mailing list](http://eepurl.com/cecpnT) for regular updates.
+Discussions about the Science Accessibilty Project take place on this repository's [Issues](https://github.com/russelljjarvis/ScienceAccessibility/issues).
 
-Wherever possible, do not take these conversations to private channels, including contacting the maintainers directly. Keeping communication public means everybody can benefit and learn from the conversation.
+Although public conversation is good as it means everybody can benefit and learn from the conversation. All communication is merited, including private communication.
